@@ -1,0 +1,10 @@
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    Irrelevant: (731, 780, 734) (0.9372, 0.9959, 0.9657)
+    Disaster: (35, 35, 64) (1.0000, 0.5469, 0.7071)
+    Location: (76, 79, 90) (0.9620, 0.8444, 0.8994)
+    Time: (18, 19, 25) (0.9474, 0.7200, 0.8182)
+    Number: (9, 10, 10) (0.9000, 0.9000, 0.9000)
+Macro-average precision, recall, F1: (0.949315, 0.801446, 0.858063)
+Item accuracy: 869 / 923 (0.9415)
+Instance accuracy: 14 / 41 (0.3415)
+Elapsed time: 0.009429 [sec] (4348.3 [instance/sec])
